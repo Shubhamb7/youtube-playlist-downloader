@@ -3,10 +3,11 @@
 
 * Install Firefox Browser
 * Download selenium webdriver for firefox https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip
+* Install selenium `pip install selenium`
 
 -> enter the youtube playlist link on www.keepvid.pro/ and copy the url.
 
--> paste the url in the code where mentioned.
+-> paste the url in the code where mentioned. (Line #12)
 
 -> Run the python script `python download_yt_playlist.py`
 
