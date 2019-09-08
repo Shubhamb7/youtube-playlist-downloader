@@ -10,4 +10,6 @@
 
 -> Run the python script `python download_yt_playlist.py`
 
-* **Note :** once download starts check mark the box `Do this for all files` and select `save file`
+#**Note :** once download starts check mark the box `Do this for all files` and select `save file`
+
+files would be saved to the default route
